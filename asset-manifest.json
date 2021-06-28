@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maz-notes/static/css/main.e5eb584d.chunk.css",
+    "main.js": "/maz-notes/static/js/main.e41326d9.chunk.js",
+    "main.js.map": "/maz-notes/static/js/main.e41326d9.chunk.js.map",
+    "runtime-main.js": "/maz-notes/static/js/runtime-main.fc8c0f45.js",
+    "runtime-main.js.map": "/maz-notes/static/js/runtime-main.fc8c0f45.js.map",
+    "static/js/2.0eaebb79.chunk.js": "/maz-notes/static/js/2.0eaebb79.chunk.js",
+    "static/js/2.0eaebb79.chunk.js.map": "/maz-notes/static/js/2.0eaebb79.chunk.js.map",
+    "index.html": "/maz-notes/index.html",
+    "static/css/main.e5eb584d.chunk.css.map": "/maz-notes/static/css/main.e5eb584d.chunk.css.map",
+    "static/js/2.0eaebb79.chunk.js.LICENSE.txt": "/maz-notes/static/js/2.0eaebb79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8c0f45.js",
+    "static/js/2.0eaebb79.chunk.js",
+    "static/css/main.e5eb584d.chunk.css",
+    "static/js/main.e41326d9.chunk.js"
+  ]
+}
